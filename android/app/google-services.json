@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267382292607",
+    "firebase_url": "https://left-desire-ce3b4.firebaseio.com",
+    "project_id": "left-desire-ce3b4",
+    "storage_bucket": "left-desire-ce3b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267382292607:android:58ea4aa11d8e065fb83f4a",
+        "android_client_info": {
+          "package_name": "com.jimmy.leftdesire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267382292607-elq2plp3v7fsj2171023n5pd7mrc8193.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu_p0MfjOgx04fmtBEmBieTvEqvYslOlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267382292607-elq2plp3v7fsj2171023n5pd7mrc8193.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
